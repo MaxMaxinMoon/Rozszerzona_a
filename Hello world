@@ -3,5 +3,6 @@
     int main() 
     {
         cout << "Hello, World!";
+        cout << "czesc wojtek";
         return 0;
     }
